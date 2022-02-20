@@ -1,0 +1,11 @@
+DisplayName,UserPrincipalName,Department,Office,MFAEnabled,MFAEnforced,MFATypeDefault,MFATypeOther1,MFATypeOther2,MFATypeOther3,MFATypeOther4,MFATypeOther5
+User Name1,Username1@company.com,Sales,Location 1,TRUE,TRUE,SMS token,Phone call verification,,,,
+User Name2,Username2@company.com,Sales,London,TRUE,TRUE,Authenticator app,SMS token,Hardware token or authenticator app,Phone call verification,,
+User Name3,Username3@company.com,Accounting,Seattle,TRUE,TRUE,Authenticator app,Hardware token or authenticator app,SMS token,Phone call verification,,
+User Name4,Username4@company.com,Accounting,Seattle,TRUE,TRUE,Authenticator app,Hardware token or authenticator app,SMS token,Phone call verification,,
+User Name5,Username5@company.com,Information Systems,Location 1,TRUE,TRUE,Authenticator app,SMS token,Hardware token or authenticator app,Phone call verification,,
+User Name6,Username6@company.com,Information Systems,,FALSE,-,,,,,,
+User Name7,Username7@company.com,Management,Location 1,TRUE,TRUE,SMS token,Phone call verification,,,,
+User Name8,Username8@company.com,HR,Location 3,TRUE,TRUE,Authenticator app,Hardware token or authenticator app,SMS token,Phone call verification,,
+User Name9,Username9@company.com,HR,WFH,TRUE,TRUE,Authenticator app,Hardware token or authenticator app,,,,
+User Name10,Username10@company.com,Accounting,WFH,TRUE,TRUE,Authenticator app,Hardware token or authenticator app,SMS token,Phone call verification,,
